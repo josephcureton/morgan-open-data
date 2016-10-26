@@ -1,10 +1,10 @@
-- 
+-
   group: "Main organizer"
-  elements: 
-    - {name: "GDG Lviv", description: "GDG Lviv - Open and volunteer geek community", link: "http://lviv.gdg.org.ua", imageUrl: "gdg-lviv.svg"}
-- 
+  elements:
+    - {name: "Morgan State University", description: "Google", link: "https://www.google.com.ua/intl/en/about/", imageUrl: "google.svg"}
+-
   group: "Co-organizers"
-  elements: 
-    - {name: "GDG Lviv", description: "GDG Kyiv - Open and volunteer geek community", link: "http://kyiv.gdg.org.ua", imageUrl: "gdg-kyiv.svg"}
-    - {name: "GDG Cherkassy", description: "GDG Cherkassy - Open and volunteer geek community", link: "http://cherkassy.gdg.org.ua", imageUrl: "gdg-cherkasy.svg"}
-    - {name: "GDG Dnipropetrovsk", description: "GDG Dnipropetrovsk - Open and volunteer geek community", link: "http://dnipro.gdg.org.ua", imageUrl: "gdg-dnipropetrovsk.svg"}
+  elements:
+    - {name: "(D-RED)", description: " Division of Research and Economic Development", link: "www.morgan.edu/research_and_economic_development.html", imageUrl: "gdg-kyiv.svg"}
+    - {name: " Office of the Provost & Division of Academic Affairs", description: "Office of the Provost & Division of Academic Affairs,", link: " Office of the Provost & Division of Academic Affairs", imageUrl: "gdg-lviv.svg", width: "120px"}
+    - {name: "School of Global Journalism & Communication", description: "School of Global Journalism & Communication", link: "www.morgan.edu/sgjc", imageUrl: "gdg-x.svg", width: "120px"}

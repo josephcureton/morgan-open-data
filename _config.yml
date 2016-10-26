@@ -10,245 +10,228 @@ exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME']
 
 
 # Site Settings
-title: "GDG DevFest Season 2014"
-email: "devfest@gdg.org.ua"
-description: "GDG DevFest is a set of events all around the world"
-baseurl: "/zeppelin"
-url: "https://gdg-x.github.io"
+title: "Morgan Open Data Working Symposium"
+email: "Info@MorganOpenData.Net"
+description: "This one-day symposium brings together a diverse cross-section of scholars, practitioners, entrepreneurs, advocates and policymakers to demonstrate and critique some of the various tools, applications, benefits and
+pitfalls of open data, and to a lesser extent big data. Specific focus is on civic engagement and sustainable
+development in Africa the African diaspora. "
+baseurl: "/home"
+url: "https://morganopendata.net"
 permalink: "/blog/:title"
-googleAnalyticsTrackingId: "UA-43643469-5"
-googleAnalyticsSiteUrl: "gdg-x.github.io"
-siteVerification: "b9imDOrFawXaBXCC4r3uJDdswSYcalD-wWpMYhFq-no"
+googleAnalyticsTrackingId: ""
+googleAnalyticsSiteUrl: ""
+siteVerification: ""
 
 # Organizer Info
-organizerName: "GDG Lviv"
-organizerAlternateName: "Google Developer Group Lviv"
-organizerDescription: "Open and volunteer geek communities who create exciting projects and share experience about Google technology with passion."
-organizerEmail: "lviv@gdg.org.ua"
+organizerName: "Morgan State"
+organizerAlternateName: "Morgan State University"
+organizerDescription: "This symposium is hosted by the Division of Research and Economic Development (D-RED). It is made possible primarily by D-RED, the Office of the Provost & Division of Academic Affairs and the School of Global Journalism & Communication. Our special thanks and appreciation are reserved for the Office of the President and several internal and external collaborators and sponsors."
+organizerEmail: "info@MorganOpenData.net"
 organizerLogo: "/img/seo/organizer-logo.png"
-organizerLink: "http://lviv.gdg.org.ua/"
+organizerLink: "http://www.morgan.edu/research_and_economic_development.html"
 
 # Head
-metaKeywords: "event, gdg, devfest, google, programming, android, chrome, developers, lviv"
-twitterAccount: "@DevFest"
-socialImageSrcGooglePlus: "/img/seo/sharing-google-plus.png"
+metaKeywords: "event, open data, morgan state, google, programming, social innovation, working symposium"
+twitterAccount: "@MorganOpenData"
 socialImageSrcTwitter: "/img/seo/sharing-twitter.png"
-socialImageSrcFacebook: "/img/seo/sharing-facebook.png"
 
 # Documents
-c4pUrl: "https://bit.ly/dfua-c4p"
-c4sponsorsUrl: "/assets/GDG_DevFest_Partnership.pdf"
+c4pUrl: "https://goo.gl/forms/7LWZevQzkr9fS6Zj1"
+c4sponsorsUrl: "https://goo.gl/forms/7LWZevQzkr9fS6Zj1"
+
 
 
 # Navigation
 navigationLinks:
  - {permalink: "/", text: "Home"}
+ - {permalink: "/schedule/", text: "Agenda"}
+ - {permalink: "/speakers/", text: "Collaborators"}
+ - {permalink: "/team/", text: "About Us"}
+ - {permalink: "/logistics/", text: "Direction & Parking"}
  - {permalink: "/blog/", text: "Blog"}
- - {permalink: "/schedule/", text: "Schedule"}
- - {permalink: "/speakers/", text: "Speakers"}
- - {permalink: "/team/", text: "Team"}
- - {permalink: "/logistics/", text: "Logistics"}
- - {permalink: "/hackathon/", text: "Hackathon"}
+
 bottomNavigationLinks:
- - {link: "https://bit.ly/dfua-c4p", text: "Become a speaker"}
+ - {link: "https://goo.gl/forms/7LWZevQzkr9fS6Zj1", text: "Register"}
 rightNavigationButtons:
- - {link: "https://bit.ly/dfua-c4p", text: "Become a speaker"}
+ - {link: "https://goo.gl/forms/7LWZevQzkr9fS6Zj1", text: "Register"}
 
 # Hero Block
 heroImage: "hero.jpg"
-heroTitle: "GDG DevFest <typeout> 2014"
-eventDate: "September - November, 2014"
-typeoutTextValues: '"", "Season", "Ukraine", "Germany", "USA"'
+heroTitle: "Morgan Open Data Working Symposium <br /><typeout>"
+eventDate: "November 19th, 2016"
+typeoutTextValues: '"Acting Local.", "Serving Global."'
 typeoutFallback: "Season"
 heroButtons:
- - {link: "https://bit.ly/dfua-c4p", text: "Become a speaker"}
- - {permalink: "/#tickets", text: "Buy tickets"}
+ - {link: "https://goo.gl/forms/7LWZevQzkr9fS6Zj1", text: "Register"}
 
 # About Block
-aboutTitle: "About GDG DevFest"
+aboutTitle: "About The Symposium"
 aboutBlock:
- - {title: "Conference", image: "conference.jpg", text: "The biggest Google related event in the country carefully crafted for you by GDG community! Awesome speakers and lots of fun!" }
- - {title: "Workshops", image: "workshop.jpg", text: "Full-day of workshops, hands-on experience, hacking and debugging. Come and tame your favourite technology!" }
- - {title: "Hackathon", image: "hackathon.jpg", text: "Full-day freestyle hackathon! Want some real team building on friday? Grab your team and join our hackathon!" }
+ - {title: "Workshops", image: "workshop.jpg", text: "A user-centric workshop series focusing on the application of open data.  We highlight innovative, entrepreneurial and action-oriented approaches." }
+ - {title: "Conference", image: "conference.jpg", text: "This one-day symposium brings together a diverse cross-section of scholars, practitioners, entrepreneurs, advocates and policymakers to demonstrate and critique some of the various tools, applications, benefits and pitfalls of open data, and to a lesser extent big data. Specific focus is on civic engagement and sustainable development in Africa the African diaspora."}
+ - {title: "Demonstrations", image: "hackathon.jpg", text: "An opportunity for our business partners (big and small) to demonstrate their products and services relating to big data, open data, public data & open source." }
 
 # Statistic Block
 statisticBlockImage: "statistic.jpg"
 statisticBlock:
- - {count: "350", specialCharacter: "+", info: "attendees", detail: "from everywhere"}
- - {count: "48", specialCharacter: "+", info: "hours", detail: "of pure Google technologies"}
- - {count: "20", specialCharacter: "+", info: "speakers", detail: "from country and beyond"}
- - {count: "3", specialCharacter: "", info: "parallel tracks", detail: "plus entertainment lounge"}
+ - {count: "30", specialCharacter: "+", info: "collaborators", detail: ""}
+ - {count: "8", specialCharacter: "+", info: "hours", detail: ""}
+ - {count: "20", specialCharacter: "+", info: "speakers", detail: ""}
+ - {count: "5", specialCharacter: "", info: "parallel tracks", detail: ""}
 
 # Latest News Block
-latestNewsTitle: "Latest news"
+latestNewsTitle: "Learn More"
 
 # Rockstar Speakers Block
 rockstarSpeakersImage: "rockstar-speakers.jpg"
 rockstarSpeakersCount: 4
-rockstarSpeakersTitle: "Rockstar speakers"
-rockstarSpeakersButtonText: "See all speakers"
+rockstarSpeakersTitle: "Collaborators"
+rockstarSpeakersButtonText: "See all collaborators"
 
 # Location Block
 locationBlockTitle: "Location"
-eventLocationName: "Conference Hall"
-eventLocationLink: "http://cabinet.kinopalace.lviv.ua/showtimes/"
-eventStreetAddress: "22 Teatral'na St"
-eventAddressLocality: "Lviv"
-eventAddressLocalityRegion: "Lvivska"
-eventPostalCode: "79000"
-eventAddressCountry: "Ukraine"
-eventStartTime: "2014-10-25T10:00"
-eventDoorTime: "09:00"
-eventEndTime: "2014-10-25T20:00"
-eventPlaceCoordinates: "49.843237, 24.028751"
-mapCenterCoordinates: "49.842537, 24.025701"
-mapMobileCenterCoordinates: "49.841620, 24.029411"
+eventLocationName: "Morgan Business Center"
+eventLocationLink: "http://www.morgan.edu/sbm"
+eventStreetAddress: "1700 E. Cold Spring Lane"
+eventAddressLocality: "Baltimore"
+eventAddressLocalityRegion: "Maryland"
+eventPostalCode: "21251"
+eventAddressCountry: "United Stated"
+eventStartTime: "2016-11-19T08:00"
+eventDoorTime: "08:45"
+eventEndTime: "2016-11-19T17:00"
+eventPlaceCoordinates: "39.345959, -76.584831"
+mapCenterCoordinates: "39.345959, -76.584831"
+mapMobileCenterCoordinates: "39.345959, -76.584831"
 
 # Venue Block
 venueBlockTitle: "Venue"
 venueBigImage: "venue_0.jpg"
 venueSmallImage1: "venue_1.jpg"
 venueSmallImage2: "venue_2.jpg"
-venueSmallImage3: "venue_3.jpg"
-venueTitle: "Kinopalace Cinema"
-venueFeatures: ["3 huge cinema screens", "Doulby Digital Surround EX audio system", "Located directly in the city center"]
+venueSmallImage3: "venue_3.jpeg"
+venueTitle: "Morgan Business Center"
+venueFeatures: ["Parking is $3 per day. Park at the Student Center Garage. ADA Compliant, Please submit your request when registering."]
 
 # Tweets Feed Block
 tweetsFeedImage: "twitter-feed.jpg"
 tweetsFeedTitle: "What's Up?"
-twitterHashTag: "devfest"
-twitterFeed: "http://lviv.gdg.org.ua/tweetledee/favoritesjson.php?c=10&cache_interval=8000"
+twitterHashTag: "MorganOpenData"
+#twitterFeed: "http://lviv.gdg.org.ua/tweetledee/favoritesjson.php?c=10&cache_interval=8000"
 
 # Partners Block
 organizersTitle: "Organizers"
 partnersTitle: "Partners"
-partnersC4sponsorsButton: "Become a sponsor"
+partnersC4sponsorsButton: "Register As A Sponsor"
 
 # Subscribe Block
 subscribeImage: "subscribe.jpg"
 subscribeTitle: "Subscribe for updates"
-subscribeAction: "https://gdg.us5.list-manage1.com/subscribe/post?u=9fc8aa205b0521b5f05fc8e1e&amp;id=ae0fb459fc"
+subscribeAction: "https://formspree.io/joseph@corestaffing.us"
 subscribeInfo: "Registration will be open around end of August. Number of tickets are limited. Stay tuned!"
 
 # Tickets Block
-ticketsTitle: "Pricetable"
-ticketsInfo: "Tickets grant access to all conference sections, coffee brakes, lunch and party. Accommodation is NOT included in the ticket price."
-ticketsOffers:
- -
-  name: "Early Bird"
-  price: "350"
-  priceCurrency: "UAH"
-  ticketsNumber: "150"
-  ribbon: "-5%"
-  buyButtonLink: "http://dfua.ticketforevent.com/"
-  buyButtonText: "Buy Now"
-  ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
-  validFrom: "2014-08-25T10:00"
-  validThrough: "2014-09-30T23:59"
- -
-  name: "Last Chance"
-  price: "450"
-  priceCurrency: "UAH"
-  ticketsNumber: "100"
-  ribbon: "-20%"
-  featured: true
-  buyButtonLink: "http://dfua.ticketforevent.com/"
-  buyButtonText: "Buy Now"
-  ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
-  validFrom: "2014-10-01T00:00"
-  validThrough: "2014-10-23T23:59"
-  disabled: true
- -
-  name: "Student"
-  price: "200"
-  priceCurrency: "UAH"
-  ticketsNumber: "50"
-  buyButtonLink: "http://dfua.ticketforevent.com/"
-  buyButtonText: "Buy Now"
-  additionalInfo: "Requires a valid student ID at the conference check in. Without student ID at the check in, ticket will be cancelled without refund"
-  ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
-  validFrom: "2014-08-20T10:00"
-  validThrough: "2014-10-23T23:59"
-  soldOut: true
-  soldOutText: "Sold Out"
+#ticketsTitle: "Pricetable"
+#ticketsInfo: "Tickets grant access to all conference sections, coffee brakes, lunch and party. Accommodation is NOT included in the ticket price."
+#ticketsOffers:
+# -
+#  name: "Early Bird"
+#  price: "350"
+#  priceCurrency: "UAH"
+#  ticketsNumber: "150"
+#  ribbon: "-5%"
+#  buyButtonLink: "http://dfua.ticketforevent.com/"
+#  buyButtonText: "Buy Now"
+#  ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
+#  validFrom: "2014-08-25T10:00"
+#  validThrough: "2014-09-30T23:59"
+ #-
+#  name: "Last Chance"
+#  price: "450"
+#  priceCurrency: "UAH"
+#  ticketsNumber: "100"
+#  ribbon: "-20%"
+#  featured: true
+#  buyButtonLink: "http://dfua.ticketforevent.com/"
+#  buyButtonText: "Buy Now"
+#  ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
+#  validFrom: "2014-10-01T00:00"
+#  validThrough: "2014-10-23T23:59"
+#  disabled: true
+# -
+#  name: "Student"
+#  price: "200"
+#  priceCurrency: "UAH"
+#  ticketsNumber: "50"
+#  buyButtonLink: "http://dfua.ticketforevent.com/"
+#  buyButtonText: "Buy Now"
+#  additionalInfo: "Requires a valid student ID at the conference check in. Without student ID at the check in, ticket will be cancelled without refund"
+#  ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
+#  validFrom: "2014-08-20T10:00"
+#  validThrough: "2014-10-23T23:59"
+#  soldOut: true
+#  soldOutText: "Sold Out"
 
 # Footer
 socialLinks:
- - {link: "https://plus.google.com/b/102444623953913144164", icon: "google-plus"}
- - {link: "https://twitter.com/intent/user?screen_name=GDGLviv", icon: "twitter"}
- - {link: "https://facebook.com/GDGLviv", icon: "facebook"}
+ - {link: "https://twitter.com/search?f=tweets&q=%23MorganOpenData", icon: "twitter"}
  - {permalink: "/feed.xml", icon: "rss"}
 footerBlocks:
  -
   title: "Links"
   links:
-   - {link: "http://gdg.org.ua", text: "GDG.org.ua"}
-   - {link: "https://developers.google.com", text: "Google Developers"}
+   - {link: "http://MorganOpenData.net", text: "Morgan Open Data"}
+   - {link: "https://developers.google.com", text: "Morgan State University"}
  -
   title: "Contacts"
   links:
-   - {link: "mailto:lviv@gdg.org.ua", text: "lviv@gdg.org.ua"}
+   - {link: "mailto:info@morganopendata.net", text: "info@morganopendata.net"}
  -
   title: "FAQ"
   links:
    - {permalink: "/cod/", text: "Code of Conduct"}
 
 # Blog
-blogTitle: "Latest news"
+blogTitle: "Our Work"
 blogCommentsEnabled: true
-discusShortName: "devfestua"
+discusShortName: "MorganOpenData"
 
 # Speakers List Block
 showSessions: true
 
 # Team Block
 teamBlockTitle: "About us"
-aboutUs: "Google's services have become synonymous with simple things online. Number of technological innovations and IT industries in which Google is creating new products is enormous. It's hard to get to know all of them, but realistic. This is why people have started to gather in small local groups and share their experience. Later, the following groups have been called Google Developer Groups. GDGs can take many forms -- from just a few people getting together to watch some videos, to large gatherings with demos, tech talks, hackathons and conferences."
+aboutUs: "This symposium is hosted by the Division of Research and Economic Development (D-RED). It is made possible primarily by D-RED, the Office of the Provost & Division of Academic Affairs and the School of Global Journalism & Communication. Our special thanks and appreciation are reserved for the Office of the President and several internal and external collaborators and sponsors. <br /><br /> The symposium is designed and organized by Dr. Umaru Bah, Associate Professor in the Department of Strategic Communication at School of Global Journalism & Communication.  It is part of a strategy geared toward the establishment of a Morgan Center for Open Data Education & Entrepreneurship (M-CODE2). <br /><br />In close collaboration with Dr. Timothy Akers, Assistant VP for Research Innovation & Advocacy, the symposium is structured to demonstrate the benefits and challenges of open data for civic engagement and sustainable development locally and globally. It further serves as an opportunity to showcase Morgan State University as a well-positioned institutional partner for local and global data initiatives, academic enhancement, and research, with focus on minorities in the United States and abroad.<br /><br />It is also structured to demonstrate in content and practice the characteristics for optimal productivity in a global, open-sourced learning ecosystem. These include, across research, teaching and service activities, local and global interdisciplinary collaboration, public-private partnership, grantsmanship and entrepreneurship, user-centered designs and outcomes that privilege and facilitate community engagement and empowerment.<br /><br />This Morgan Open Data Working Symposium will scale up to a Morgan Open Data Working Conference in March 2017, with wider national and international participation and focus. We hope to leverage the networks, feedback and support therefrom to develop and submit the M-CODE2 Center grant proposal in June 2017. <br /><br />We welcome your participation and feedback. Feel free to contact us with suggestions and inquiries."
 
 # Logistics Find Way Block
-findWayTitle: "Find your way here"
+findWayTitle: "<b>Find your way here</b>"
 findWayDistance: "Distance"
 findWayDriving: "DRIVING"
 findWayWalking: "WALKING"
 findWayBicycling: "BICYCLING"
 findWayTransit: "TRANSIT"
 findWayFindFlight: "Find Flight"
-logisticsMapCenterCoordinates: "49.056728, 3.117289"
-logisticsMapMobileCenterCoordinates: "48.335365, 23.711648"
+logisticsMapCenterCoordinates: "39.345959, -76.584831"
+logisticsMapMobileCenterCoordinates: "39.345959, -76.584831"
 logisticsMapAutoDirections: false
 
 # Logistics Direction Details Block
 directionDetailsImage: "direction-details.jpg"
-directionDetailsTitle: "Get around Lviv"
+directionDetailsTitle: "Getting to Morgan"
 directionDetailsCards:
- - {title: "From the Airport", information: 'Airport is right at the city border. It is easily reachable by car, public transport or taxi. More information is available at <a href="http://lwo.aero/en/transport">airport website</a>.'}
- - {title: "Public Transit", information: 'Google Transit is available in Lviv. So you can find your way in Google Maps. Moreover, you can download any of the offline public transit apps available for Lviv.'}
- - {title: "Hotels", information: 'Lviv has lots of great hotels and hostels. More information will be available later.'}
+ - {title: "From the Student Center Garage", information: 'The Earl G. Graves School of Business & Management is located at 21251, 4100 Hillen Rd, Baltimore, MD 21218. There are limited free parking spaces on the streets and nearby parking lots. To avoid parking-related hassles, we strongly recommend that you park at the Student Center Garage, located at the University Student Center. Parking fee is fifty cents per hour, capped at $3 per day. It is a walking distance from there to the School of Business & Management'}
 directionDetailsWideCards:
  -
   title: "Questions?"
   subCards:
    -
-    title: "Hotels"
-    links:
-     - {link: "https://plus.google.com/b/102444623953913144164", text: "InterContinental"}
-     - {link: "https://plus.google.com/b/102444623953913144164", text: "The Hotel Rex"}
-     - {link: "https://plus.google.com/b/102444623953913144164", text: "Westin Market Street"}
-     - {link: "https://plus.google.com/b/102444623953913144164", text: "Hotel Adagio"}
-   -
     title: "Registration"
     links:
-     - {link: "https://plus.google.com/b/102444623953913144164", text: "InterContinental"}
-     - {link: "https://plus.google.com/b/102444623953913144164", text: "The Hotel Rex"}
-     - {link: "https://plus.google.com/b/102444623953913144164", text: "Westin Market Street"}
-     - {link: "https://plus.google.com/b/102444623953913144164", text: "Hotel Adagio"}
+     - {link: "https://goo.gl/forms/7LWZevQzkr9fS6Zj1", text: "Register Here"}
    -
     title: "Attendance Details"
     links:
-     - {link: "https://plus.google.com/b/102444623953913144164", text: "InterContinental"}
-     - {link: "https://plus.google.com/b/102444623953913144164", text: "The Hotel Rex"}
-     - {link: "https://plus.google.com/b/102444623953913144164", text: "Westin Market Street"}
-     - {link: "https://plus.google.com/b/102444623953913144164", text: "Hotel Adagio"}
+     - {link: "https://plus.google.com/b/102444623953913144164", text: "Contact the Organizer"}
 
 # Hackathon
 hackathonTitle: "Hackathon"
