@@ -6,23 +6,23 @@
   thumbnailUrl: VitaliyZasadnyy.jpg
   team: true
   ribbon:
-    - {abbr: "GDG", title: "Google Developer Group"}
+    - {abbr: "EDAC", title: "Google Developer Group"}
   social:
     - {name: "google-plus", link: "https://google.com/+VitalikZasadnyy"}
     - {name: "twitter", link: "https://twitter.com/zasadnyy"}
     - {name: "site", link: "http://zasadnyy.com/"}
 -
   id: 1
-  name: "Oleh"
-  surname: "Zasadnyy"
-  title: "Designer and Web Developer"
-  thumbnailUrl: OlehZasadnyy.jpg
+  name: "Amadu"
+  surname: "Massally"
+  title: "World Bank Senior Consultant: Diaspora & Governance"
+  thumbnailUrl: AmaduMassally.jpg
   team: true
   ribbon:
-    - {abbr: "GDG", title: "Google Developer Group"}
+    - {abbr: "World Bank", title: "Consultant, Sierra Leone Diaspora Investment and Trade Study, Trade and Competitiveness Global Practice"}
   social:
-    - {name: "google-plus", link: "https://google.com/+OlehZasadnyy"}
-    - {name: "github", link: "https://github.com/ozasadnyy"}
+    - {name: "Linkedin", link: "https://www.linkedin.com/in/amadu-massally-3799476"}
+    - {name: "twitter", link: "https://twitter.com/saloneamadu?lang=en"}
 -
   id: 2
   name: "Ostap"
