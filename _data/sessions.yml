@@ -9,10 +9,10 @@
   title: "Welcome and Opening Remarks"
   place: "Main Hall"
   service: true
-  description: "Dr. Gloria Gibson, Provost and Senior Vice President for Academic Affairs"
+  description: <p><a href="http://www.morgan.edu/office_of_the_president/leadership_team.html">Dr. Gloria Gibson</a>, Provost and Senior Vice President for Academic Affairs</p>
 -
   id: 303
-  title: "lightning Talks"
+  title: "Lightning Talks"
   place: "Main Hall"
   service: true
   description: "Five lightning talks of 5 minutes each on exciting thoughts, strategies, technologies, and initiatives on innovative and entrepreneurial uses of open data for civic engagement and sustainable development. This is your time to share with us what you, your company, organization or research are doing with open data, or how you stand to benefit from open data resources and networks."
@@ -27,60 +27,77 @@
   title: "Morning Plenary"
   place: "Main Hall"
   subtype: presentation
-  description: "How can HBCUs and international minority-serving actors and institutions best collaborate on open data initiatives for civic engagement, innovation and entrepreneurship locally and globally?<br />Panelists share insights into best policies, practices and opportunities.<br /><br />Moderator:  Jeffrey C. Street, International Open Data Business Strategist, Via-Consulting<br />Panelists: <br /><ul><li> Jamila White</li> "
-  speakers: [4, 5, 6]
+  service: true
+  description: <p>Panelists share insights into best policies, practices and opportunities for data collaboration among minority-serving institutions globally. Moderator | <a href="https://www.linkedin.com/in/jeffreyakaplan">Jeff Kaplan</a>, Policy Innovator & Public Sector Technologist.</p>
 -
   id: 002
   title: "DURING LUNCH: Partner Demonstrations"
-  description: "Programs During Lunch Include: <br />- Vendor demonstration tables.<br />-Learning Lunch tables for non-profits, scholars/practitioners and institution representatives.<br />-“Data Journalism for Filmmaking in Africa: A Case about Liberia”<br />-Poster/digital demonstrations of projects by individuals, non-profits and institutions."
-  subtype: presentation
-  speakers: [7]
+  description: <p> Programs During Lunch Include<br  /> - Vendor demonstration tables. <br /> - Learning Lunch tables for non-profits, scholars/practitioners and institution representatives.  <br /> - Poster/digital demonstrations of projects by individuals, non-profits and institutions.</p>
+  subtype: workshop
+  service: true
+  speakers:
 -
   id: 003
   title: "Urban Sustainability, Resilience & Disaster Preparedness."
-  description: "More than ever before, developing for global audience is a necessity than a luxury in today's world. Are you ready ... where to start? what does it entail? how do I do it? how to promote in local markets? This talk will address above questions for android, chrome and web developers. In our journey of the where, what and how, we will take an in-depth look at various internationalization and localization tools & strategies available to you."
+  description: "Each user-centric workshop focuses on the applications of open data to providing feasible and sustainable solutions to any aspect of the five areas above-mentioned.  Emphasis is placed on innovative, entrepreneurial and action-oriented approaches."
   subtype: presentation
-  speakers: [4]
-  language: en
-  complexity: "Intermediate"
-  presentation: "https://speakerdeck.com/gdglviv/dmytro-danylyk-android-l-animation"
 -
   id: 004
   title: "Health Informatics"
-  description: "Google has 1M APIs and services. Every API is different! Learn how you can interact with Google services without writing code! Designing your UI so it works across multiple screen sizes is no longer a nice to have, it is *the* way to build for the web. Using Polymer, we'll cover how to create robust, responsive elements that work across all platforms."
+  description: "Each user-centric workshop focuses on the applications of open data to providing feasible and sustainable solutions to any aspect of the five areas above-mentioned.  Emphasis is placed on innovative, entrepreneurial and action-oriented approaches."
   subtype: workshop
-  speakers: [6]
-  language: uk
-  complexity: "Beginner"
-  presentation: "https://speakerdeck.com/gdglviv/mateusz-herych-guava-beyond-collections"
-  video: "//www.youtube.com/embed/v3SCiUqI1yQ"
 -
   id: 005
   title: "Cybersecurity"
-  description: "Google has 1M APIs and services. Every API is different! Learn how you can interact with Google services without writing code! Designing your UI so it works across multiple screen sizes is no longer a nice to have, it is *the* way to build for the web. Using Polymer, we'll cover how to create robust, responsive elements that work across all platforms."
+  description: "Each user-centric workshop focuses on the applications of open data to providing feasible and sustainable solutions to any aspect of the five areas above-mentioned.  Emphasis is placed on innovative, entrepreneurial and action-oriented approaches."
   subtype: workshop
-  speakers: [7]
-  language: en
-  complexity: "Expert"
-  presentation: "https://speakerdeck.com/gdglviv/michal-tajchert-wearables-views"
-  video: "//www.youtube.com/embed/v3SCiUqI1yQ"
 -
   id: 006
   title: "Entrepreneurship"
-  description: "Google has 1M APIs and services. Every API is different! Learn how you can interact with Google services without writing code! Designing your UI so it works across multiple screen sizes is no longer a nice to have, it is *the* way to build for the web. Using Polymer, we'll cover how to create robust, responsive elements that work across all platforms."
+  description: "Each user-centric workshop focuses on the applications of open data to providing feasible and sustainable solutions to any aspect of the five areas above-mentioned.  Emphasis is placed on innovative, entrepreneurial and action-oriented approaches."
   subtype: workshop
-  speakers: [7]
-  language: en
-  complexity: "Expert"
-  presentation: "https://speakerdeck.com/gdglviv/michal-tajchert-wearables-views"
-  video: "//www.youtube.com/embed/v3SCiUqI1yQ"
 -
   id: 007
   title: "Civic engagement: Returning Citizens"
-  description: "Google has 1M APIs and services. Every API is different! Learn how you can interact with Google services without writing code! Designing your UI so it works across multiple screen sizes is no longer a nice to have, it is *the* way to build for the web. Using Polymer, we'll cover how to create robust, responsive elements that work across all platforms."
+  description: "Each user-centric workshop focuses on the applications of open data to providing feasible and sustainable solutions to any aspect of the five areas above-mentioned.  Emphasis is placed on innovative, entrepreneurial and action-oriented approaches."
+  subtype: workshop
+
+-
+  id: 306
+  title: "Greetings from the President"
+  place: "Main Hall"
+  service: true
+  description: <p><a href="http://www.morgan.edu/president">Dr. David Wilson</a>, President of Morgan State University</p>
+  speakers:
+-
+  id: 307
+  title: "Afternoon Plenary"
+  place: "Main Hall"
+  service: true
+  description: <p> What is Open Data, Big Data, Open Source To Me? <br />Panelists break down jargon-free definitions, ethics, contents, applications and opportunities to the (prospective) end-user/audience.<br  /><br />Moderator -<a href="https://www.linkedin.com/in/joy-spencer-835b212">Joy Spencer</a>, Communications & Outreach Strategy Specialist, World Bank.</p>
+- 
+  id: 008
+  title: "Introduction of Keynote Speaker"
+  place: "Main Hall"
   subtype: keynote
-  speakers: [7]
-  language: en
-  complexity: "Expert"
-  presentation: "https://speakerdeck.com/gdglviv/michal-tajchert-wearables-views"
-  video: "//www.youtube.com/embed/v3SCiUqI1yQ"
+  service: true
+  speakers:
+  description: <p><a href="https://www.linkedin.com/in/victor-mccrary-3213604">Dr. Victor McCrary</a>, VP for Research & Economic Development. <br />Keynote speaker is <a href="https://www.linkedin.com/in/paul-zeitz-6ba72511">Dr. Paul Zeitz</a>, Director of Data Revolution for Sustainable Development Team, U.S. State Department."
+-
+  id: 309
+  title: "Keynote Presentation"
+  place: "Main Hall"
+  service: true
+  description: "Dr. Paul Zeitz suggests policies, opportunities and best practices for collaboration on local and global open data programs among minority-serving institutions (MSIs), and between MSIs and other institutions."
+-
+  id: 310
+  title: "Presentation of Workshop Outcomes"
+  place: "Main Hall"
+  service: true
+  description: "Team members of the five concurrent tracks demonstrate outcomes of their project, share resources and discuss next steps."
+-
+  id: 311
+  title: "Closing Remarks  "
+  place: "Main Hall"
+  service: true
+  description: <p><a href="https://www.linkedin.com/in/umarubah">Dr. Umaru Bah</a>, Symposium Innovator & Coordinator</p>

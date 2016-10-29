@@ -1,59 +1,46 @@
 -
   id: 0
-  name: "Umaru"
-  surname: "Bah"
-  title: "Sponsors and Speakers Manager"
-  thumbnailUrl: VitaliyZasadnyy.jpg
+  name: "Dr. Timothy"
+  surname: "Akers"
+  title: "Event Supervisor"
+  thumbnailUrl: timothy_akers.jpg
   team: true
   ribbon:
-    - {abbr: "EDAC", title: "Google Developer Group"}
+    - {abbr: "Morgna State", title: "Assistant VP for Research Innovation & Advocacy"}
   social:
-    - {name: "google-plus", link: "https://google.com/+VitalikZasadnyy"}
-    - {name: "twitter", link: "https://twitter.com/zasadnyy"}
-    - {name: "site", link: "http://zasadnyy.com/"}
+    - {name: "Linkedin", link: "https://www.linkedin.com/in/dr-timothy-akers-1569613b"}
+    - {name: "Mail", link: "mailto:timothy.akers@morgan.edu"}
 -
   id: 1
-  name: "Amadu"
-  surname: "Massally"
-  title: "World Bank Senior Consultant: Diaspora & Governance"
-  thumbnailUrl: AmaduMassally.jpg
+  name: "Dr. Umaru"
+  surname: "Bah"
+  title: "Event Innovator & Coordinator"
+  thumbnailUrl: umaru_bah.jpg
   team: true
   ribbon:
-    - {abbr: "World Bank", title: "Consultant, Sierra Leone Diaspora Investment and Trade Study, Trade and Competitiveness Global Practice"}
+    - {abbr: "Morgna State", title: "Associate Graduate Fulbright Professor of Data Management for Civic Engagement & Sustainable Development"}
   social:
-    - {name: "Linkedin", link: "https://www.linkedin.com/in/amadu-massally-3799476"}
-    - {name: "twitter", link: "https://twitter.com/saloneamadu?lang=en"}
+    - {name: "Linkedin", link: "https://www.linkedin.com/in/umarubah"}
+    - {name: "twitter", link: "https://twitter.com/profbahmorgan"}
 -
   id: 2
-  name: "Ostap"
-  surname: "Andrusiv"
-  title: "Sponsors and Speakers Manager"
-  thumbnailUrl: OstapAndrusiv.jpg
+  name: "Ms. Kimberly"
+  surname: "Williams"
+  title: "Event Facilitator"
+  thumbnailUrl: kimberly_williams.jpg
   team: true
   ribbon:
-    - {abbr: "GDG", title: "Google Developer Group"}
+    - {abbr: "Morgan State", title: "Grant Administration at Morgan State University"}
   social:
-    - {name: "google-plus", link: "https://google.com/+OstapAndrusiv"}
-    - {name: "twitter", link: "https://twitter.com/p1f"}
-    - {name: "site", link: "http://andrusiv.com/"}
+    - {name: "Linkedin", link: "https://www.linkedin.com/in/kimberly-williams-mba-cissp-33996717"}
 -
-  id: 4
-  name: "Dmytro"
-  surname: "Danylyk"
-  title: "Android Program Committee"
-  thumbnailUrl: DmytroDanylyk.jpg
-  subTeam: true
+  id: 3
+  name: "Ms. Ailing"
+  surname: "Zhang"
+  title: "Network Facilitator"
+  thumbnailUrl: ailing_zhang.jpg
+  team: true
+  ribbon:
+    - {abbr: "Morgan State", title: "Grants Manager"}
   social:
-    - {name: "google-plus", link: "https://plus.google.com/+DmytroDanylyk"}
-    - {name: "twitter", link: "https://twitter.com/dmytrodanylyk"}
-    - {name: "github", link: "https://github.com/dmytrodanylyk"}
--
-  id: 7
-  name: "Valentyn"
-  surname: "Shybanov"
-  title: "Web and Cloud Program Committee"
-  thumbnailUrl: ValentynShybanov.jpg
-  subTeam: true
-  social:
-    - {name: "google-plus", link: "https://google.com/+ValentynShybanov"}
-    - {name: "site", link: "http://olostan.name/"}
+    - {name: "link", link: "http://www.morgan.edu/research_and_economic_development/ailing_zhang.html"}

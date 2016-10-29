@@ -1,10 +1,10 @@
 -
-  group: "Main organizer"
+  group: ""
   elements:
-    - {name: "Morgan State University", description: "Google", link: "https://www.google.com.ua/intl/en/about/", imageUrl: "google.svg"}
+    - {name: "Division of Research and Economic Development", description: "Division of Research and Economic Development ", link: "http://www.morgan.edu/research_and_economic_development.html", imageUrl: "divison_of_research_and_economic_development.png", width: "120px"}
 -
-  group: "Co-organizers"
+  group: "Co-Organizers"
   elements:
-    - {name: "(D-RED)", description: " Division of Research and Economic Development", link: "www.morgan.edu/research_and_economic_development.html", imageUrl: "gdg-kyiv.svg"}
-    - {name: " Office of the Provost & Division of Academic Affairs", description: "Office of the Provost & Division of Academic Affairs,", link: " Office of the Provost & Division of Academic Affairs", imageUrl: "gdg-lviv.svg", width: "120px"}
-    - {name: "School of Global Journalism & Communication", description: "School of Global Journalism & Communication", link: "www.morgan.edu/sgjc", imageUrl: "gdg-x.svg", width: "120px"}
+    - {name: "School of Global Journalism & Communication", description: "School of Global Journalism & Communication", link: "http://www.morgan.edu/sgjc", imageUrl: "school_of_global_journalism_communication.jpg", width: "120px"}
+    - {name: "Entrepreneurial Development and Assistance Center", description: "Connecting budding & existing entrepreneurs to resources for venture management & growth", link: "http://www.edacmorgan.com/", imageUrl: "edac.jpg", width: "120px"}
+    - {name: " School of Architecture & Planning", link: "http://www.morgan.edu/sap", imageUrl: "school_of_achitecture_and_planning.jpg", width: "120px"}

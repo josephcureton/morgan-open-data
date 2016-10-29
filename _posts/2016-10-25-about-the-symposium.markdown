@@ -7,8 +7,7 @@ isStaticPost: false
 
 ![Morgan Open Data](/img/posts/morgan_flyer.png)
 
-This one-day symposium brings together a diverse cross-section of scholars, practitioners, entrepreneurs, advocates and policymakers to demonstrate and critique some of the various tools, applications, benefits and pitfalls of open data, and to a lesser extent big data. Specific focus is on civic engagement and sustainable
-development in Africa the African diaspora.
+This one-day symposium brings together a diverse cross-section of scholars, practitioners, entrepreneurs, advocates and policymakers to demonstrate and critique some of the various tools, applications, benefits and pitfalls of open data, and to a lesser extent big data. Specific focus is on civic engagement and sustainable development in Africa the African diaspora.
 
 
 

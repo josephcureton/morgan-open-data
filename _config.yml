@@ -48,7 +48,7 @@ navigationLinks:
  - {permalink: "/speakers/", text: "Collaborators"}
  - {permalink: "/team/", text: "About Us"}
  - {permalink: "/logistics/", text: "Direction & Parking"}
- - {permalink: "/blog/", text: "Blog"}
+ #- {permalink: "/blog/", text: "Blog"}
 
 bottomNavigationLinks:
  - {link: "https://goo.gl/forms/7LWZevQzkr9fS6Zj1", text: "Register"}
@@ -58,18 +58,18 @@ rightNavigationButtons:
 # Hero Block
 heroImage: "hero.jpg"
 heroTitle: "Morgan Open Data Working Symposium <br /><typeout>"
-eventDate: "November 19th, 2016"
+eventDate: "November 18th, 2016"
 typeoutTextValues: '"Acting Local.", "Serving Global."'
-typeoutFallback: "Season"
+typeoutFallback: "Acting Local. Serving Global."
 heroButtons:
  - {link: "https://goo.gl/forms/7LWZevQzkr9fS6Zj1", text: "Register"}
 
 # About Block
 aboutTitle: "About The Symposium"
 aboutBlock:
- - {title: "Workshops", image: "workshop.jpg", text: "A user-centric workshop series focusing on the application of open data.  We highlight innovative, entrepreneurial and action-oriented approaches." }
- - {title: "Conference", image: "conference.jpg", text: "This one-day symposium brings together a diverse cross-section of scholars, practitioners, entrepreneurs, advocates and policymakers to demonstrate and critique some of the various tools, applications, benefits and pitfalls of open data, and to a lesser extent big data. Specific focus is on civic engagement and sustainable development in Africa the African diaspora."}
- - {title: "Demonstrations", image: "hackathon.jpg", text: "An opportunity for our business partners (big and small) to demonstrate their products and services relating to big data, open data, public data & open source." }
+ - {title: "Workshops", image: "workshop.jpg", text: "A user-centric workshop series focusing on various applications of open data.  We highlight innovative, entrepreneurial and action-oriented approaches." }
+ - {title: "Conference", image: "conference.jpg", text: "This one-day symposium brings together a diverse cross-section of scholars, practitioners, entrepreneurs, advocates and policymakers to demonstrate and critique some of the various tools, applications, benefits and pitfalls of open data, and to a lesser extent big data. Specific focus is on civic engagement and sustainable development in Africa and the African diaspora."}
+ - {title: "Demonstrations", image: "hackathon.jpg", text: "An opportunity for scholars, advocates and business partners (big and small) to demonstrate their projects, products and services relating to big data, open data, public data & open source." }
 
 # Statistic Block
 statisticBlockImage: "statistic.jpg"
@@ -90,19 +90,19 @@ rockstarSpeakersButtonText: "See all collaborators"
 
 # Location Block
 locationBlockTitle: "Location"
-eventLocationName: "Morgan Business Center"
+eventLocationName: "Morgan School of Business & Management"
 eventLocationLink: "http://www.morgan.edu/sbm"
-eventStreetAddress: "1700 E. Cold Spring Lane"
+eventStreetAddress: "4100 Hillen Rd"
 eventAddressLocality: "Baltimore"
 eventAddressLocalityRegion: "Maryland"
-eventPostalCode: "21251"
+eventPostalCode: "21218"
 eventAddressCountry: "United Stated"
-eventStartTime: "2016-11-19T08:00"
+eventStartTime: "2016-11-18T08:00"
 eventDoorTime: "08:45"
-eventEndTime: "2016-11-19T17:00"
-eventPlaceCoordinates: "39.345959, -76.584831"
-mapCenterCoordinates: "39.345959, -76.584831"
-mapMobileCenterCoordinates: "39.345959, -76.584831"
+eventEndTime: "2016-11-18T17:00"
+eventPlaceCoordinates: "39.340012, -76.588008"
+mapCenterCoordinates: "39.340012, -76.588008"
+mapMobileCenterCoordinates: "39.340012, -76.588008"
 
 # Venue Block
 venueBlockTitle: "Venue"
@@ -110,25 +110,25 @@ venueBigImage: "venue_0.jpg"
 venueSmallImage1: "venue_1.jpg"
 venueSmallImage2: "venue_2.jpg"
 venueSmallImage3: "venue_3.jpeg"
-venueTitle: "Morgan Business Center"
-venueFeatures: ["Parking is $3 per day. Park at the Student Center Garage. ADA Compliant, Please submit your request when registering."]
+venueTitle: "School of Business & Management"
+venueFeatures: ["Parking is $3 per day. Park at the University Student Center. ADA Compliant, Please submit your request when registering."]
 
 # Tweets Feed Block
 tweetsFeedImage: "twitter-feed.jpg"
-tweetsFeedTitle: "What's Up?"
+#tweetsFeedTitle: "MorganLeads"
 twitterHashTag: "MorganOpenData"
 #twitterFeed: "http://lviv.gdg.org.ua/tweetledee/favoritesjson.php?c=10&cache_interval=8000"
 
 # Partners Block
 organizersTitle: "Organizers"
-partnersTitle: "Partners"
-partnersC4sponsorsButton: "Register As A Sponsor"
+#partnersTitle: "Partners"
+partnersC4sponsorsButton: "Register As An Organizer"
 
 # Subscribe Block
 subscribeImage: "subscribe.jpg"
-subscribeTitle: "Subscribe for updates"
-subscribeAction: "https://formspree.io/joseph@corestaffing.us"
-subscribeInfo: "Registration will be open around end of August. Number of tickets are limited. Stay tuned!"
+subscribeTitle: "Contact Us For Updates"
+subscribeAction: "https://formspree.io/info@morganopendata.net"
+subscribeInfo: "Please stay tuned!"
 
 # Tickets Block
 #ticketsTitle: "Pricetable"
@@ -181,15 +181,12 @@ footerBlocks:
   title: "Links"
   links:
    - {link: "http://MorganOpenData.net", text: "Morgan Open Data"}
-   - {link: "https://developers.google.com", text: "Morgan State University"}
+   - {link: "http://www.morgan.edu", text: "Morgan State University"}
  -
   title: "Contacts"
   links:
    - {link: "mailto:info@morganopendata.net", text: "info@morganopendata.net"}
- -
-  title: "FAQ"
-  links:
-   - {permalink: "/cod/", text: "Code of Conduct"}
+ 
 
 # Blog
 blogTitle: "Our Work"
@@ -201,8 +198,7 @@ showSessions: true
 
 # Team Block
 teamBlockTitle: "About us"
-aboutUs: "This symposium is hosted by the Division of Research and Economic Development (D-RED). It is made possible primarily by D-RED, the Office of the Provost & Division of Academic Affairs and the School of Global Journalism & Communication. Our special thanks and appreciation are reserved for the Office of the President and several internal and external collaborators and sponsors. <br /><br /> The symposium is designed and organized by Dr. Umaru Bah, Associate Professor in the Department of Strategic Communication at School of Global Journalism & Communication.  It is part of a strategy geared toward the establishment of a Morgan Center for Open Data Education & Entrepreneurship (M-CODE2). <br /><br />In close collaboration with Dr. Timothy Akers, Assistant VP for Research Innovation & Advocacy, the symposium is structured to demonstrate the benefits and challenges of open data for civic engagement and sustainable development locally and globally. It further serves as an opportunity to showcase Morgan State University as a well-positioned institutional partner for local and global data initiatives, academic enhancement, and research, with focus on minorities in the United States and abroad.<br /><br />It is also structured to demonstrate in content and practice the characteristics for optimal productivity in a global, open-sourced learning ecosystem. These include, across research, teaching and service activities, local and global interdisciplinary collaboration, public-private partnership, grantsmanship and entrepreneurship, user-centered designs and outcomes that privilege and facilitate community engagement and empowerment.<br /><br />This Morgan Open Data Working Symposium will scale up to a Morgan Open Data Working Conference in March 2017, with wider national and international participation and focus. We hope to leverage the networks, feedback and support therefrom to develop and submit the M-CODE2 Center grant proposal in June 2017. <br /><br />We welcome your participation and feedback. Feel free to contact us with suggestions and inquiries."
-
+aboutUs: <p>This symposium is hosted by the <a href="http://www.morgan.edu/research_and_economic_development.html">Division of Research and Economic Development (D-RED)</a>. It is made possible primarily by D-RED, the <a herf="http://www.morgan.edu/academic_affairs.html">Office of the Provost & Division of Academic Affairs</a> and the <a href="http://www.morgan.edu/sgjc">School of Global Journalism & Communication</a>. Our special thanks and appreciation are reserved for the <a href="http://www.morgan.edu/president">Office of the President</a> and several internal and external collaborators and sponsors. <br /><br /> The symposium is designed and organized by <a href="https://www.linkedin.com/in/umarubah">Dr. Umaru Bah</a>, Associate Professor in the Department of Strategic Communication at School of Global Journalism & Communication.  It is part of a strategy geared toward the establishment of a Morgan Center for Open Data Education & Entrepreneurship (M-CODE2). <br /><br />In close collaboration with <a href="http://www.morgan.edu/research_and_economic_development/timothy_akers.html">Dr. Timothy Akers</a>, Assistant VP for Research Innovation & Advocacy, the symposium is structured to demonstrate the benefits and challenges of open data for civic engagement and sustainable development locally and globally. The symposium further serves as an opportunity to showcase Morgan State University as a well-positioned institutional partner for local and global data initiatives, academic enhancement, and research, with focus on minorities in the United States and abroad.<br /><br />It is also structured to demonstrate in content and practice the characteristics for optimal productivity in a global, open-sourced learning ecosystem. These include, across research, teaching and service activities, local and global interdisciplinary collaboration, public-private partnership, grantsmanship and entrepreneurship, user-centered designs and outcomes that privilege and facilitate community engagement and empowerment.<br /><br />This Morgan Open Data Working Symposium will scale up to a Morgan Open Data Working Conference in March 2017, with wider national and international participation and focus. We hope to leverage the networks, feedback and support therefrom to develop and submit the M-CODE2 Center grant proposal in June 2017. <br /><br />We welcome your participation and feedback. Feel free to <a href="mailto:info@morganopendate.net">contact us</a> with suggestions and inquiries.</p>
 # Logistics Find Way Block
 findWayTitle: "<b>Find your way here</b>"
 findWayDistance: "Distance"
@@ -211,8 +207,8 @@ findWayWalking: "WALKING"
 findWayBicycling: "BICYCLING"
 findWayTransit: "TRANSIT"
 findWayFindFlight: "Find Flight"
-logisticsMapCenterCoordinates: "39.345959, -76.584831"
-logisticsMapMobileCenterCoordinates: "39.345959, -76.584831"
+logisticsMapCenterCoordinates: "39.340012, -76.588008"
+logisticsMapMobileCenterCoordinates: "39.340012, -76.588008"
 logisticsMapAutoDirections: false
 
 # Logistics Direction Details Block
@@ -231,7 +227,7 @@ directionDetailsWideCards:
    -
     title: "Attendance Details"
     links:
-     - {link: "https://plus.google.com/b/102444623953913144164", text: "Contact the Organizer"}
+     - {link: "mailto:info@morganopendata.net", text: "Contact the Coordinator"}
 
 # Hackathon
 hackathonTitle: "Hackathon"
